@@ -1,4 +1,2 @@
 [MESSAGES CONTROL]
-disable=
-    C0114, # Désactive l'erreur : "Missing module docstring"
-    C0116  # Désactive l'erreur : "Missing function docstring"
+disable=C0114,C0116
